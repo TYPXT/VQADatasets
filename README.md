@@ -1,2 +1,4 @@
 # VQADatasets
-VQA数据集文件，版本v2
+VQA v2数据集下载方式
+
+执行setup.sh文件
