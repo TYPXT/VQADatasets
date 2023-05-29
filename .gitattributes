@@ -1,0 +1,9 @@
+train2014.tar.gz filter=lfs diff=lfs merge=lfs -text
+v2_Annotations_Val_mscoco.zip filter=lfs diff=lfs merge=lfs -text
+v2_Questions_Train_mscoco.zip filter=lfs diff=lfs merge=lfs -text
+val2014.tar.gz filter=lfs diff=lfs merge=lfs -text
+visualgenome_qa.zip filter=lfs diff=lfs merge=lfs -text
+test2015.tar.gz filter=lfs diff=lfs merge=lfs -text
+v2_Annotations_Train_mscoco.zip filter=lfs diff=lfs merge=lfs -text
+v2_Questions_Test_mscoco.zip filter=lfs diff=lfs merge=lfs -text
+v2_Questions_Val_mscoco.zip filter=lfs diff=lfs merge=lfs -text
